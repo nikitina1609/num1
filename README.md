@@ -1,6 +1,5 @@
 <html>
 	<head>
-		<link rel = “stylesheet” href = “.css”>
 		<title> Название страницы </title>
 	<head>
 	<body>
